@@ -1,0 +1,14 @@
+1. How many tabs/space is one indentation level?
+Answer: 1 tab = 4 spaces. Always use 4 spaces in place of tab
+
+2. How should class names be formatted?
+Answer: Class names should begin with capital letter. Eg School or SchoolMember or Members.
+
+3. How should method names be formatted?
+Answer: Methos names should be small letters or __
+
+4. How many empty lines should suround a methd definition?
+Answer: Separate methos with 2 line spaces.
+
+5. What arethe rules for function/method arguments?
+Answer: There should be space after every comma.
