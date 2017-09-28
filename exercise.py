@@ -23,7 +23,6 @@ if word == reverse:
 
 else:
     print("Not palindrome")
-#
 
 #Solution to exercise 2
 
@@ -34,3 +33,4 @@ countries = ['Ghana', 'USA', 'Congo', "Ghana"]
 
 for person, country in zip(peoples, countries):
     print(person, country)
+
